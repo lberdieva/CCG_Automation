@@ -48,3 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Static Cypress tutorial specs
+1-getting-started/
+2-advanced-examples/
+
