@@ -9,9 +9,8 @@ const urls = [
 ];
 
 const urls2 = [
-    'https://www.cypress.io',
-    'https://www.cypress.io/support',
-    'https://www.cypress.io/blog',
+    'https://www.ngccoin.com/',
+    'https://www.ngccoin.com/about/about-ngc/',
 ];
 
 class PageLoad {
